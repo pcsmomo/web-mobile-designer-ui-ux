@@ -199,4 +199,13 @@ Complete Web &amp; Mobile Designer in 2022: UI/UX, Figma, +more by Andrei Neagoi
 
 - Command + Drag: Chagne frame size ignoring constraints of children
 
+### 37. Designing in Figma — Using Auto Layout
+
+- Command + d: the previous action
+- arrow keys in auto layout frame: easy re-ordering
+
+### 38. Designing in Figma — Auto Layout Properties
+
+> This is great to know to control nested auto layout frame and components!!
+
 </details>
