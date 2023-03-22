@@ -208,4 +208,9 @@ Complete Web &amp; Mobile Designer in 2022: UI/UX, Figma, +more by Andrei Neagoi
 
 > This is great to know to control nested auto layout frame and components!!
 
+### 44. Project — Auto Layout Buttons
+
+- Option + Command + G: Frame Selection
+- i : pick the color
+
 </details>
