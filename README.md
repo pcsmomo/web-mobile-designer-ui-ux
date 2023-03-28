@@ -213,4 +213,8 @@ Complete Web &amp; Mobile Designer in 2022: UI/UX, Figma, +more by Andrei Neagoi
 - Option + Command + G: Frame Selection
 - i : pick the color
 
+### 45. Project — Creating a Responsive Navigation
+
+- Commond + R: Rename (when select multiple items, batch rename)
+
 </details>
