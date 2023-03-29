@@ -234,4 +234,12 @@ Complete Web &amp; Mobile Designer in 2022: UI/UX, Figma, +more by Andrei Neagoi
 
 Plugin: autoflow
 
+## Section 6: Sitemaps
+
+### 57. Getting Ready For This Section
+
+> Sitemap is still useful (for designer/developer as well) to see how all pages are linked in the product
+
+When do we use sitemap? in the early stage after collecting the requirements from the client
+
 </details>
