@@ -217,4 +217,21 @@ Complete Web &amp; Mobile Designer in 2022: UI/UX, Figma, +more by Andrei Neagoi
 
 - Commond + R: Rename (when select multiple items, batch rename)
 
+## Section 5: User Flows
+
+### 51. User Flows Explained
+
+1. Your title describes the purpose of the flow and the user's goal
+2. Your user flows should head in one direction
+3. Describe each of your steps
+
+### 52. The DOs and DON'Ts
+
+- Don't be vague
+- Make your title
+
+### 53. What We Are Going To Build
+
+Plugin: autoflow
+
 </details>
