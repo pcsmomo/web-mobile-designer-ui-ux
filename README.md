@@ -242,4 +242,25 @@ Plugin: autoflow
 
 When do we use sitemap? in the early stage after collecting the requirements from the client
 
+### 59. Creating A Basic Sitemap
+
+- Flat Sitemaps
+  - For smaller project with less pages
+- Deep Sitemaps
+  - for large project
+
+## Section 7: Wireframes
+
+### 74. Wireframes — Home
+
+- Shift + A : Turn into auto layout (when selecting several components)
+
+### 75. Wireframes — Cart
+
+Plugin: content reel
+
+### 76. Wireframes — Profile
+
+- Shift + Enter: Select Parent
+
 </details>
