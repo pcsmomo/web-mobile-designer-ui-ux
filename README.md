@@ -263,4 +263,12 @@ Plugin: content reel
 
 - Shift + Enter: Select Parent
 
+## Section 8: Prototyping
+
+### 85. Prototyping in Figma — Prototype Presentation
+
+- Command + \: hide Figma UI in the Prototype mode
+
+> When you share your prototype, Hide Figma UI and send the link to stakeholders.
+
 </details>
