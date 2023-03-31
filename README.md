@@ -271,4 +271,17 @@ Plugin: content reel
 
 > When you share your prototype, Hide Figma UI and send the link to stakeholders.
 
+## Section 10: Spacing and Grids
+
+### 94. Grid Basics
+
+- Base Unit
+  - 8px, 16px, 24px, 32px, 40px, 48px, 56px, 64px
+
+#### Type of grids
+
+- Column Grid
+- Modular Grid
+- Baseline Grid
+
 </details>
