@@ -306,4 +306,32 @@ Plugin: content reel
 3. Not padding
 4. Full bleed can go beyond the grid
 
+## Section 11: Typography
+
+### 103. Serifs
+
+**Sharp Edges on the font**
+
+- Old Style
+  - eg: Goudy
+- Transitional
+  - eg: Time New Roman
+- Modern
+  - eg: Didot
+- Slab: Slab serif—also called Egyptian, Clarendon, or simply “slab”
+  - eg: Courier
+
+### 104. Sans Serifs
+
+**Sans : means without in French**
+
+- Grotesque
+  - eg: Source Sans Pro
+- Neo-Grotesque (more plain)
+  - eg: Helvetica
+- Humanist
+  - eg: Gills Sans
+- Geometric
+  - eg: Futura
+
 </details>
