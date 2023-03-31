@@ -195,6 +195,8 @@ Complete Web &amp; Mobile Designer in 2022: UI/UX, Figma, +more by Andrei Neagoi
 
 ### Section 4: Figma Basics
 
+- [Figma Playground - Basics](https://www.figma.com/file/rkStRcOzcmML2H4BCD98kY/01-Figma-Basics?node-id=4-3)
+
 ### 36. Designing in Figma — Constraints
 
 - Command + Drag: Chagne frame size ignoring constraints of children
@@ -219,6 +221,8 @@ Complete Web &amp; Mobile Designer in 2022: UI/UX, Figma, +more by Andrei Neagoi
 
 ## Section 5: User Flows
 
+- [Figma Playground - User Flows](https://www.figma.com/file/1FuklMCJeJR8Qb87pzJaQ0/02.-User-Flows-Resource?node-id=97175-2)
+
 ### 51. User Flows Explained
 
 1. Your title describes the purpose of the flow and the user's goal
@@ -236,6 +240,8 @@ Plugin: autoflow
 
 ## Section 6: Sitemaps
 
+- [Figma Playground - User Sitemaps](https://www.figma.com/file/4csqhQF7PXjLPLjvNq73bh/03.-Sitemap-Resource?node-id=66541-342)
+
 ### 57. Getting Ready For This Section
 
 > Sitemap is still useful (for designer/developer as well) to see how all pages are linked in the product
@@ -246,10 +252,13 @@ When do we use sitemap? in the early stage after collecting the requirements fro
 
 - Flat Sitemaps
   - For smaller project with less pages
+    n
 - Deep Sitemaps
   - for large project
 
 ## Section 7: Wireframes
+
+- [Figma Playground - Wireframes](https://www.figma.com/file/ndRzdJMFzBN2kKRwe0zuOt/04.-Wireframes-Resource?node-id=145675-2337)
 
 ### 74. Wireframes — Home
 
@@ -265,6 +274,8 @@ Plugin: content reel
 
 ## Section 8: Prototyping
 
+- [Figma Playground - Prototyping](https://www.figma.com/file/yjKau7pVIqaHU4SK8MJMr8/05.-Prototyping-Resource?node-id=129993-1610)
+
 ### 85. Prototyping in Figma — Prototype Presentation
 
 - Command + \: hide Figma UI in the Prototype mode
@@ -272,6 +283,8 @@ Plugin: content reel
 > When you share your prototype, Hide Figma UI and send the link to stakeholders.
 
 ## Section 10: Spacing and Grids
+
+- [Figma Playground - Grid](https://www.figma.com/file/v2zfHhWXjt6P8LEBUPPkKP/06.-Spacing-and-Grids-Resource?node-id=123775-2)
 
 ### 94. Grid Basics
 
@@ -283,5 +296,14 @@ Plugin: content reel
 - Column Grid
 - Modular Grid
 - Baseline Grid
+
+### 101. Simple Rules to Follow
+
+[Simple rules for Grid](https://www.figma.com/file/v2zfHhWXjt6P8LEBUPPkKP/06.-Spacing-and-Grids-Resource?node-id=109575-2722)
+
+1. Component should stay on the Grid (don't intrude the Gutter)
+2. Follow the Grid rule in Parent
+3. Not padding
+4. Full bleed can go beyond the grid
 
 </details>
