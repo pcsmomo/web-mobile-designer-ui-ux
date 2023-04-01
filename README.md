@@ -334,4 +334,27 @@ Plugin: content reel
 - Geometric
   - eg: Futura
 
+### 105. Display & Mono
+
+- Display: irregular font width/height per character - More artistic?
+- Mono: same space (width/height) per character - Easy to read
+
+### 110. Exercise — Typeface Scenarios
+
+Typefaces can give different impressions \
+Friendly / Professionalism / and so on
+
+- Headings: For Header
+- Body: For Body
+- Labels: Even for labels or wargning/error messages (smaller font size)
+
+### 111. Exercise — Google Fonts
+
+When you choose a font, go Google Fonts and search by Category and preview
+
+### 116. Figma Check In — Text Styles
+
+- Plugin: Style Manager
+  - export/import my styles for different projects
+
 </details>
