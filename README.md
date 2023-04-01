@@ -308,6 +308,8 @@ Plugin: content reel
 
 ## Section 11: Typography
 
+- [Figma Playground - Typography](https://www.figma.com/file/fwK8inXidGeYEZ7UaSaZ45/07.-Typography-Resource?node-id=125575-2)
+
 ### 103. Serifs
 
 **Sharp Edges on the font**
@@ -356,5 +358,22 @@ When you choose a font, go Google Fonts and search by Category and preview
 
 - Plugin: Style Manager
   - export/import my styles for different projects
+
+## Section 12: Color
+
+- [Figma Playground - Color](https://www.figma.com/file/rKWNDD2SrymdelEckQzEmd/08.-Color-Resource?node-id=124875-2)
+
+### 118. Color Schemes
+
+[Color Shcemes](https://www.sessions.edu/color-calculator/)
+
+> What is the Color Wheel?
+
+- Monochromatic
+- Analogous
+- Complimentary
+- Split complements
+- Triadic
+- Tetradic
 
 </details>
