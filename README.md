@@ -417,4 +417,23 @@ Command + D: duplicate(copy/paste) item with equal distance
 
 > Because if we use RGBA color in css, the color could get changed when it overlays
 
+## Section 13: Imagery and Iconography
+
+- [Figma Playground - Imagery and Iconography](https://www.figma.com/file/a8JXa84reviOCvc1KhYNXV/09.-Imagery-and-Iconography-Resource?node-id=120975-38)
+
+### 130. Visual Assets Introduction
+
+- Plugins for Illustrations
+  - Illustrations
+  - Humaaans for Figma
+  - Blush
+- Plugins for Icon
+  - Material Icon
+
+### 132. Figma Check In — Image Plugins
+
+- Plugins
+  - Unsplash
+  - Remove BG: need an account for API key
+
 </details>
