@@ -436,4 +436,23 @@ Command + D: duplicate(copy/paste) item with equal distance
   - Unsplash
   - Remove BG: need an account for API key
 
+### 137. Figma Check In — Illustration Plugins
+
+- Plugins
+  - 3D Elite pack
+  - Streamline
+
+### 139. Figma Check In — Icon Plugins
+
+- Plugins
+  - Material Design Icons
+  - Iconify
+
+### 141. Exercise — Custom Icons with the Pen Tool
+
+- Figma Tools
+  - Outline stroke
+  - Flatten (select two objects)
+  - Bend tool (in Ventor? mode, double click an object)
+
 </details>
