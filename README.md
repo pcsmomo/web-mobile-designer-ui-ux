@@ -376,4 +376,45 @@ When you choose a font, go Google Fonts and search by Category and preview
 - Triadic
 - Tetradic
 
+### 120. Creating Color Palettes
+
+1. Colors should be scalable and additive
+2. Remember, Always tint your grays and blacks
+3. Color contrast creates hierarchy and ensures accessibility
+   - https://colorable.jxnblk.com/
+
+### 123. Exercise — Expanding Upon a Strict Color Palette
+
+Command + D: duplicate(copy/paste) item with equal distance
+
+### 124. Exercise — Creating a Color Palette
+
+- Primary Colors
+- Secondary Colors
+- Neutral
+  - Even for neutral, add color slightly
+- Font
+
+### 127. Project — Primary and Neutrals
+
+> Tips to make neutrals
+
+- choose the main color(#1F2223, slightly blue) with alpha 100%
+- make 10 grades and reduce alpha to 0%
+  - Nuetral/900 : #1F2223, 100%
+  - Nuetral/800 : #1F2223, 89%
+  - Nuetral/700 : #1F2223, 78%
+  - ...
+  - Nuetral/100 : #1F2223, 11%
+  - Nuetral/0 : #1F2223, 0%
+- color pick them for RGB version
+  - Nuetral/900 : #1F2223, 100%
+  - Nuetral/800 : #383A3B, 100%
+  - Nuetral/700 : #505353, 100%
+  - ...
+  - Nuetral/100 : #E6E7E7, 100%
+  - Nuetral/0 : #FFFFFF, 100%
+
+> Because if we use RGBA color in css, the color could get changed when it overlays
+
 </details>
