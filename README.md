@@ -455,4 +455,15 @@ Command + D: duplicate(copy/paste) item with equal distance
   - Flatten (select two objects)
   - Bend tool (in Ventor? mode, double click an object)
 
+## Section 14: Forms and UI Elements
+
+- [Figma Playground - Forms and UI Elements](https://www.figma.com/file/6fGmBFKqBHlQic4U01W5JX/10.-Forms-and-UI-Elements-Resource?node-id=126875-1721)
+
+### 149. Figma Check In — Component Properties
+
+- Variant
+- Boolean
+- Instance Swap
+- Text
+
 </details>
