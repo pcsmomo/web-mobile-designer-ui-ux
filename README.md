@@ -466,4 +466,30 @@ Command + D: duplicate(copy/paste) item with equal distance
 - Instance Swap
 - Text
 
+## Section 15: Accessibility
+
+- [Figma Playground - Accessibility](https://www.figma.com/file/sBHyq4Cz2GCCiVJIOxamHM/11.-Accessibility-Resource?node-id=117675-2)
+
+### 160. Assistive Technologies
+
+- Screen Reader
+- Braille Terminals
+- Screen Magnifier Software
+- Alternate Input Devices + Software
+
+### 161. Visual Patterns For Accessibility
+
+#### Recommended Contrast Ratio
+
+[Contrast Ratio Caculator](https://contrast-ratio.com)
+
+- UI Components: ⬆️ 3:1
+  - check: #FFF
+  - background: #38F
+  - contrast ratio: 3.44
+- Text: ⬆️ 4.5:1
+  - text: #666
+  - background: #FFF
+  - contrast ratio: 5.74
+
 </details>
