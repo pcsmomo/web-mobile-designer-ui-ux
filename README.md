@@ -492,4 +492,26 @@ Command + D: duplicate(copy/paste) item with equal distance
   - background: #FFF
   - contrast ratio: 5.74
 
+### 162. Tools To Make Your Design Accessible
+
+#### Online tools
+
+- [Colorsafe](http://colorsafe.co/)
+- [Colorable](https://colorable.jxnblk.com/)
+- [Contrast Checker](https://webaim.org/resources/contrastchecker/)
+
+#### Chrome extentions
+
+- [Color Contrast Analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll?hl=en)
+
+#### Figma plugins
+
+- [Figma Plugin - Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast)
+- [Figma Plugin - Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker)
+
+#### Standard
+
+- [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
+- [World Wide Web Consortium (W3C)](https://www.w3.org/)
+
 </details>
