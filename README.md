@@ -514,4 +514,21 @@ Command + D: duplicate(copy/paste) item with equal distance
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 - [World Wide Web Consortium (W3C)](https://www.w3.org/)
 
+### 163. Visual Patterns For Accessibility Part 2
+
+- Focus States
+  ```css
+  <!-- this will fail the accessibility -->
+  :focus: {
+    outline: 0;
+  }
+  ```
+- Focus contrast
+- Think about off screen content
+- Modals can be an accessibility nightmare
+- Hover states should behave the same as focus states if you plan to hide content or an action beneath it
+- Click targets
+  - Tab index in card component
+  - Selection area
+
 </details>
