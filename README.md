@@ -531,4 +531,15 @@ Command + D: duplicate(copy/paste) item with equal distance
   - Tab index in card component
   - Selection area
 
+## Section 17: Mobile Design
+
+### 169. Mobile Design Best Practices Part 1
+
+- Don't make users think
+- Declutter
+- Break tasks into smaller chunks
+- Stick to the patterns
+- Consistency
+- Predictability
+
 </details>
