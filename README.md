@@ -266,7 +266,8 @@ When do we use sitemap? in the early stage after collecting the requirements fro
 
 ### 75. Wireframes — Cart
 
-Plugin: content reel
+- Plugin: content reel
+  - Address, Full name, Etc.
 
 ### 76. Wireframes — Profile
 
@@ -541,5 +542,26 @@ Command + D: duplicate(copy/paste) item with equal distance
 - Stick to the patterns
 - Consistency
 - Predictability
+
+## Section 19: Motion and Microinteractions
+
+### 183. What Is A Microinteraction?
+
+> Microinteractions can help communicate the tone of your brand
+
+- Navigation
+- Scroolbar
+- Swiping
+- Pull to refresh
+- Notification
+- Etc.
+
+### 184. Why Microinteractions Are Important?
+
+- They provide feedback
+- They help prevent errors
+- They can create seamless experiences
+- They encourage engagement
+- They can help communicate the tone of your brand
 
 </details>
