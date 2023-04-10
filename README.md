@@ -545,6 +545,8 @@ Command + D: duplicate(copy/paste) item with equal distance
 
 ## Section 19: Motion and Microinteractions
 
+- [Figma Playground - Motion and Microinteractions](https://www.figma.com/file/VmRW9DtKXsExdSVdsO1mvd/13.-Motion-and-Microinteractions?node-id=123176-755)
+
 ### 183. What Is A Microinteraction?
 
 > Microinteractions can help communicate the tone of your brand
@@ -562,6 +564,23 @@ Command + D: duplicate(copy/paste) item with equal distance
 - They help prevent errors
 - They can create seamless experiences
 - They encourage engagement
-- They can help communicate the tone of your brand
+- They can help communicate the tone of your bran
+
+## Section 20: Design Systems
+
+- [Figma Playground - Design Systems](https://www.figma.com/file/379UoyDiLWL54tCrwzEmOo/14.-Design-System-and-Compositions?node-id=49077-5592)
+
+## Section 21: Execution
+
+- [Figma Playground - Execution](https://www.figma.com/file/379UoyDiLWL54tCrwzEmOo/14.-Design-System-and-Compositions?node-id=49077-5592)
+
+### 212. Execution — Introduction Screen
+
+#### Layer Blur - background blur with the same image color
+
+- Copy the image
+- Rename the copied image to Blur
+- Add an effect, Layer blur and set it to 75%
+- Group them together and name it Layer Blur
 
 </details>
