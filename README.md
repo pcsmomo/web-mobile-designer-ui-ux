@@ -583,4 +583,20 @@ Command + D: duplicate(copy/paste) item with equal distance
 - Add an effect, Layer blur and set it to 75%
 - Group them together and name it Layer Blur
 
+### 222. Prototypes — Lottie Files Plugin
+
+- Plugin - LottieFiles
+  - animated effects (GIFs)
+
+## Section 22: Working With A Client Revisited
+
+- [Figma Playground - Working With A Client Revisited](https://www.figma.com/file/vwBo23vxEpMowM23AIL5QN/16.-Product-Alignment-Resource?node-id=117076-417)
+
+## Section 24: Web Portfolio
+
+### 240. How To Export And Place Designs
+
+- Plugin - isometric
+  - Isometric allows you to create isometric layers without manually having to set them up.
+
 </details>
