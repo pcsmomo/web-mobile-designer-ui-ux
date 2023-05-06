@@ -599,4 +599,10 @@ Command + D: duplicate(copy/paste) item with equal distance
 - Plugin - isometric
   - Isometric allows you to create isometric layers without manually having to set them up.
 
+## Section 31: Extra: CSS Grid + CSS Layout
+
+### 339. CSS Grid 5
+
+[Grid cheatsheet](https://grid.malven.co/)
+
 </details>
